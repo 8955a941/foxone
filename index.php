@@ -29,7 +29,7 @@ if(! isset($_SESSION['username']))
                     <th>Nim</th>
                     <th>Nama</th>
                     <th>Umur</th>
-                    <th>Action</th>
+                    <th>Action0</th>
             </thead>
             <tbody>
                 <?php
